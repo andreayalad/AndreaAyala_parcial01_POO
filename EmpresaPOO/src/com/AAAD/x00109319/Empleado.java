@@ -10,6 +10,10 @@ public abstract class Empleado {
         this.salario = salario;
     }
 
+    public Empleado() {
+
+    }
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
@@ -26,4 +30,12 @@ public abstract class Empleado {
         salario= pSalario;
     }
 
+    @Override
+    public String toString() {
+        return "Empleado{" +
+                "nombre='" + nombre + '\'' +
+                ", puesto='" + puesto + '\'' +
+                ", salario=" + salario +
+                '}';
+    }
 }

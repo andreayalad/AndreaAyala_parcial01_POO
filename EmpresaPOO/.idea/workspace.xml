@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60e87ef0-3959-4168-b76a-8fc91d329164" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/CalculadoraDeImpuestos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/CalculadoraDeImpuestos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587146738823</updated>
       <workItem from="1587146740485" duration="2104000" />
-      <workItem from="1587149714430" duration="1082000" />
+      <workItem from="1587149714430" duration="2048000" />
     </task>
     <servers />
   </component>
