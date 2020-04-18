@@ -16,13 +16,13 @@ public final class CalculadoraDeImpuestos{
             auxAFP= s.getSalario()*0.03;
             double restante= s.getSalario()-auxAFP-auxISSS;
             //rangoA
-            if(restante >=0.01 || restante <= 472)
+            if(restante >=0.01 && restante <= 472)
                 auxRenta= restante;
             //rangoB
-            else if (restante >=472.01 || restante <= 895.24)
+            else if (restante >=472.01 && restante <= 895.24)
                 auxRenta= (0.1*(restante-472)+17.67);
             //rangoC
-            else if(restante >=895.25 || restante <=2038.10)
+            else if(restante >=895.25 && restante <=2038.10)
                 auxRenta= (0.2*(restante-895.24)+60);
             //rangoD
             else
