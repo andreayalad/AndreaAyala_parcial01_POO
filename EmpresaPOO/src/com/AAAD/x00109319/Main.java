@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args){
         int opc, meses_Contrato=0, extension=0;
-        double salario=0, total ;
+        double salario=0;
         String nombre=" ", puesto=" ";
         ServicioProfesional trabajador =new ServicioProfesional(nombre, puesto, salario, meses_Contrato);
         PlazaFija personal= new PlazaFija(nombre, puesto,salario , extension);
@@ -46,7 +46,7 @@ public class Main {
                         break;
                 case 2:
                     System.out.println("Sueldo liquido de los empleados: ");
-                    System.out.println( "Servicio profesional: "+ trabajador.getSalario());
+                    System.out.println( "Servicio profesional: ");
                     System.out.println("Plaza fija: "+ personal.getSalario());
                     break;
 
