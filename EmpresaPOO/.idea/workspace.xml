@@ -3,12 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="60e87ef0-3959-4168-b76a-8fc91d329164" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/CalculadoraDeImpuestos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/CalculadoraDeImpuestos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/Empleado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/PlazaFija.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/PlazaFija.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/AAAD/x00109319/ServicioProfesional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AAAD/x00109319/ServicioProfesional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,6 +59,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587146738823</updated>
       <workItem from="1587146740485" duration="2104000" />
-      <workItem from="1587149714430" duration="2048000" />
+      <workItem from="1587149714430" duration="16007000" />
     </task>
     <servers />
   </component>
@@ -66,13 +88,37 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="206" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1587148837618" />
-    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1587156774834">
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1587185646923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587156774834" />
+    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587185646923" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587186889033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587186889033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587186889033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587186889033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587186889033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587186889033" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587186889033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587186889033" />
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587149717408">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587149717408" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1587158931881">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1587158931881" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1587186058591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587186058591" />
   </component>
 </project>

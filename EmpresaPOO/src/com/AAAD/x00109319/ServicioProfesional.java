@@ -20,6 +20,9 @@ public class ServicioProfesional extends Empleado {
     public String toString() {
         return "ServicioProfesional{" +
                 "meses_Contrato=" + meses_Contrato +
+                ", nombre='" + nombre + '\'' +
+                ", puesto='" + puesto + '\'' +
+                ", salario=" + salario +
                 '}';
     }
 }

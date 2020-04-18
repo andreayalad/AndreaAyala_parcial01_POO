@@ -23,6 +23,9 @@ public class PlazaFija extends Empleado {
     public String toString() {
         return "PlazaFija{" +
                 "extension=" + extension +
+                ", nombre='" + nombre + '\'' +
+                ", puesto='" + puesto + '\'' +
+                ", salario=" + salario +
                 '}';
     }
 }

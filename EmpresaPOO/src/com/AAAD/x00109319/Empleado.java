@@ -26,8 +26,8 @@ public abstract class Empleado {
         return salario;
     }
 
-    public void setSalario(double pSalario) {
-        salario= pSalario;
+    public void setSalario(double pagoTotal) {
+        salario= pagoTotal;
     }
 
     @Override
