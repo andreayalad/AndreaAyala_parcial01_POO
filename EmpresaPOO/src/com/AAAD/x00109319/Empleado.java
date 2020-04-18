@@ -4,7 +4,7 @@ public abstract class Empleado {
     protected String nombre, puesto;
     protected double salario;
 
-    public Empleado(String nombre, String puesto, int salario) {
+    public Empleado(String nombre, String puesto, double salario) {
         this.nombre = nombre;
         this.puesto = puesto;
         this.salario = salario;
@@ -14,7 +14,7 @@ public abstract class Empleado {
 
     }
 
-    public void setNombre(String nombre) {
+    public void getNombre(String nombre) {
         this.nombre = nombre;
     }
 
